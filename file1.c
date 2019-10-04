@@ -2,5 +2,5 @@
 int main()
 {
 printf("Hello Jenkins HmmHaHaHaHa\n");
-exit 0;
+exit(0);
 }
